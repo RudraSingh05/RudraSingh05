@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on something cool 😉 <br><br>I’m looking to collaborate on Open-Source Projects
+💻 I’m currently working on something cool 😉
 
 
 ## 🌐 Socials:
