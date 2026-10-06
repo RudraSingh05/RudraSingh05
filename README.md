@@ -1,19 +1,144 @@
-# 💫 About Me:
-💻 I’m currently working on something cool 😉
+<div align="center">
 
+# Hi 👋, I'm Rudra Pratap Singh
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-pratap-singh-cse/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudra.psinghp@gmail.com) 
+### Frontend Engineer • Full-Stack Developer • DevOps Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RudraSingh05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RudraSingh05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSingh05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;React+%7C+Node.js+%7C+Cloud+%7C+DevOps;Turning+ideas+into+production-ready+systems;Always+learning.+Always+building." alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RudraSingh05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://www.linkedin.com/in/rudra-pratap-singh-cse/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rudra.psinghp@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const rudra = {
+  role: "Frontend / Software Engineer",
+  focus: ["Full-Stack Development", "DevOps", "Cloud"],
+  currentProject: "RescueChain",
+  learning: ["CI/CD", "Docker", "Jenkins", "AWS", "System Design"],
+  askMeAbout: ["React", "JavaScript", "Node.js", "REST APIs", "DevOps"],
+  philosophy: "Build. Break. Learn. Improve."
+};
+```
+
+- 🔭 Currently building **RescueChain — Cloud-Based Emergency Supply Chain**
+- ⚛️ Focused on building scalable applications with **React & Node.js**
+- ⚙️ Exploring production-grade **CI/CD, Docker, Jenkins & AWS**
+- 🧠 Strengthening **DSA, System Design & Software Engineering**
+- 💬 Ask me about **React, JavaScript, Node.js, APIs & DevOps**
+- 🚀 Interested in **Frontend / Software Engineering opportunities**
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css" />
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,firebase,redis" />
+</p>
+
+### DevOps & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,jenkins,aws,githubactions,gitlab,cloudflare,vercel,netlify" />
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,linux" />
+</p>
+
+---
+
+## ⚡ Featured Project
+
+### 🚨 RescueChain
+
+**Cloud-Based Emergency Supply Chain Platform**
+
+A microservices-based platform designed to help users discover and reserve critical emergency supplies such as **oxygen cylinders, blood and medicines** from nearby suppliers.
+
+**Tech:** React • Node.js • Express • PostgreSQL • Prisma • Redis • Docker • Jenkins • AWS
+
+**Highlights**
+
+- 📍 Location-based nearest supplier discovery
+- 📦 Real-time inventory & reservation management
+- 👥 User, Supplier & Admin role-based architecture
+- ⏳ Automated reservation expiry and inventory restoration
+- 🐳 Containerized microservices architecture
+- ⚙️ Production-focused CI/CD pipeline development
+- ☁️ Cloud deployment architecture
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RudraSingh05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=RudraSingh05&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSingh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/RudraSingh05/RudraSingh05/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rudra-pratap-singh-cse/">
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rudra.psinghp@gmail.com">
+<img src="https://img.shields.io/badge/Drop%20Me%20A%20Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RudraSingh05&label=Profile%20Views&color=0e75b6&style=flat" />
+
+### ⭐ Building things that solve real problems.
+
+</div>
