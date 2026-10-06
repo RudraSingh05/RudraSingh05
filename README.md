@@ -57,17 +57,13 @@ const rudra = {
 <img src="https://skillicons.dev/icons?i=python" width="45"/><br/>
 <sub><b>Python</b></sub>
 </td>
+</tr>
+</table>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=cpp" width="45"/><br/>
-<sub><b>C++</b></sub>
-</td>
+## ⚛️ Frontend
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=c" width="45"/><br/>
-<sub><b>C</b></sub>
-</td>
-
+<table>
+<tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=html" width="45"/><br/>
 <sub><b>HTML5</b></sub>
@@ -77,36 +73,10 @@ const rudra = {
 <img src="https://skillicons.dev/icons?i=css" width="45"/><br/>
 <sub><b>CSS3</b></sub>
 </td>
-</tr>
-</table>
 
-## ⚛️ Frontend
-
-<table>
-<tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=react" width="45"/><br/>
 <sub><b>React</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=redux" width="45"/><br/>
-<sub><b>Redux</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br/>
-<sub><b>Tailwind</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br/>
-<sub><b>Bootstrap</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vite" width="45"/><br/>
-<sub><b>Vite</b></sub>
 </td>
 </tr>
 </table>
@@ -149,12 +119,7 @@ const rudra = {
 <tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=prisma" width="45"/><br/>
-<sub><b>Prisma</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=firebase" width="45"/><br/>
-<sub><b>Firebase</b></sub>
+<sub><b>PrismaORM</b></sub>
 </td>
 </tr>
 </table>
@@ -176,16 +141,6 @@ const rudra = {
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=aws" width="45"/><br/>
 <sub><b>AWS</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=githubactions" width="45"/><br/>
-<sub><b>Actions</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=gitlab" width="45"/><br/>
-<sub><b>GitLab CI</b></sub>
 </td>
 
 <td align="center" width="100">
@@ -232,11 +187,6 @@ const rudra = {
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=vercel" width="45"/><br/>
 <sub><b>Vercel</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=cloudflare" width="45"/><br/>
-<sub><b>Cloudflare</b></sub>
 </td>
 </tr>
 </table>
