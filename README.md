@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:rudra.psinghp@gmail.com">
+<a href="mailto:er.rudra.singh05@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -255,7 +255,7 @@ I'm interested in building **scalable software systems** and improving how appli
 <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rudra.psinghp@gmail.com">
+<a href="mailto:er.rudra.singh05@gmail.com">
 <img src="https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
